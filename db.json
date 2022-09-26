@@ -5,7 +5,14 @@
       "name": "John Doe",
       "email": "john.doe@gmail.com",
       "contact": "+2435325723443",
-      "Address": "Mountain View, FL 940"
+      "address": "Mountain View, FL 940"
+    },
+    {
+      "id": "895c6b33-c53a-4eef-a1ae-745247afe535",
+      "name": "Aamir khan",
+      "email": "aamir.khan2478@gmail.com",
+      "contact": "3423432423423432432",
+      "address": "house no. D357 kcp calony grote chowk jauharabad\nhouse no. 396 gali no.122 g9/3, Islamabad"
     }
   ]
 }
